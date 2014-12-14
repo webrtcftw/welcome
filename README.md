@@ -1,6 +1,8 @@
 WebRTC for the Web
 ==================
 
+### Introduction
+
 We believe WebRTC is one of the most important technologies to hit the web in many years. There is a significant opportunity for WebRTC to help deliver on the promise of the open web—but for communication and collaboration.
 
 In several of our colleague Henrik Joreteg's talks the past couple years, he's said, *"WebRTC needs more Open Web hackers!"* It's very true.
@@ -40,3 +42,6 @@ Here's how we propose raising that level:
 We're calling this effort "WebRTC for the Web" and we're organizing it at github.com/webrtcftw
 
 What do you say? Are you in?
+
+----
+_Inportant note:_ this is entirely written from my perspective. If you're in, please propose edits that would make this better as the voice of all participants. 
