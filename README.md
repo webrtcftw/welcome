@@ -42,4 +42,4 @@ We're calling this effort "WebRTC for the Web" and we're organizing it here.
 What do you say? Are you in?
 
 ----
-_Inportant note:_ If you're interested in participating, please propose edits that might make this better representation of your voice, too.
+_Important note:_ If you're interested in participating, please propose edits that might make this better representation of your voice, too.
